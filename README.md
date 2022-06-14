@@ -1,2 +1,4 @@
 # SELF-DEFENSE-SYSTEM-WITH-GSM-SOS-MESSAGE-ALERT
 
+The working of our project Self Defense System with SOS GSM Message Alert is described below:
+As soon as the switch is pressed the operation of 555 timer starts, which produces a pulsating electric signal of low current, which is then passed to NPN transistor which turns on and off allowing an alternating current to pass through it. After which it passed through the Step-Up. Transformer which steps-up the low current produced earlier to a voltage of around 30v. Then a no. of voltage doublers is used to double the voltage produced by the transformer which is then connected to the output of the stun gun. The additional security that our project provide is that if ever our user fails to aim at the correct target point, the switch of the stun gun pressed sends a signal to the GSM which is used to send emergency alert message to the prefeded emergency numbers.
